@@ -1,6 +1,6 @@
 # Couch
 
-Couch is a simple TypeScript library/module, (written for Deno) to ease interacting with some commonly used parts of a CouchDB database.v 
+Couch is a simple TypeScript library/module, (written for Deno) to ease interacting with some commonly used parts of a CouchDB database. 
 
 ## Usage
 ```ts
